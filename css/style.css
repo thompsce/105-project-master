@@ -9,6 +9,7 @@ section p {
 }
 section h1 {
 	font: 32px 'Open Sans';
+	font-color: blue;
 	font-weight: bold;
 }
 section p {
